@@ -23,8 +23,8 @@ Please, feel free to connect with me on [LinkedIn](www.linkedin.com/in/ttraylor3
 
 ## 301 Intermediate Software Development
 
-* [Class 01](/C301/class-01.md)
-* [Class 02](/C301/class-02.md)
+* [Class 01 -](/C301/class-01.md)
+* [Class 02 -](/C301/class-02.md)
 
 ## 201 Foundations of Software Development
 
