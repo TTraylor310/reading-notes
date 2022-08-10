@@ -1,4 +1,4 @@
-# C201 Reading Notes
+# Class 201 - Foundations of Software Development
 
 ## *This is where I will put all my notes I guess...*
 

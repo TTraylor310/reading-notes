@@ -1,4 +1,4 @@
-# Class 102 
+# Class 102 - Intro to Software Development
 
 * Class 1 Notes about Markdown
 * Class 2 Coder's Computer
