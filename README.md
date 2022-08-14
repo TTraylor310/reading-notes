@@ -2,8 +2,9 @@
 
 *This is where I will put all my notes I guess...*
 
-Hello, My name is Tim Traylor (he/him). Currently living in Edmonds, Washington State. I am a 12 year Navy veteran, submarine nuclear electrician. Currently running Windows 10. Excited to see what area of coding and software development speaks to me. Limited tech background, but have always been able to build computers and fix small issues. Excited to continue learning.
-Please, feel free to connect with me on [LinkedIn](www.linkedin.com/in/ttraylor310) and/or [GitHub](https://github.com/ttray310).
+Hello, My name is Tim Traylor (he/him). Currently living in Edmonds, Washington. I am a 12 year Navy veteran, submarine nuclear electrician. Currently running Windows 10. Excited to see what area of coding and software development speaks to me next. I have enjoyed learning JavaScript and look forward to more complexity in code and projects. Starting from a near zero background in coding, but have always been able to build computers and fix small issues. Excited to continue learning with Code Fellows!
+
+Please, feel free to connect with me on [LinkedIn](www.linkedin.com/in/ttraylor310) and/or [GitHub](https://github.com/ttraylor310).
 
 **Growth mindset** is the idea that I know that I am constantly growing and learning. *It is okay to fail*, but never okay to quit. Continue to improve daily and a month from now, you will be surprised.
 
@@ -23,8 +24,9 @@ Please, feel free to connect with me on [LinkedIn](www.linkedin.com/in/ttraylor3
 
 ## 301 Intermediate Software Development
 
-* [Class 01 -](/C301/class-01.md)
+* [Class 01 - Component-Based Architecture, React - Props basics](/C301/class-01.md)
 * [Class 02 -](/C301/class-02.md)
+* [PreWork - React](/C301/react.md)
 
 ## 201 Foundations of Software Development
 
