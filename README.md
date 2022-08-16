@@ -22,13 +22,13 @@ Please, feel free to connect with me on [LinkedIn](www.linkedin.com/in/ttraylor3
 * Try to remember every one started at square one
 * Focus on small wins, win the war
 
-## 301 Intermediate Software Development
+## Class 301 - Intermediate Software Development
 
 * [Class 01 - Component-Based Architecture, React - Props basics](/C301/class-01.md)
-* [Class 02 -](/C301/class-02.md)
+* [Class 02 -React Lifecycle and State vs Props](/C301/class-02.md)
 * [PreWork - React](/C301/react.md)
 
-## 201 Foundations of Software Development
+## Class 201 - Foundations of Software Development
 
 * [Class 01 - How the web works/ Intro to HTML/ Website basics/ JavaScript basics](/C201/class-01.md)
 * [Class 02 - More Intro to HTML/ CSS Structure/ JavaScript more](/C201/class-02.md)

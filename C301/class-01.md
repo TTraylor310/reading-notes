@@ -2,8 +2,6 @@
 
 ## [Component-Based Architecture](https://www.tutorialspoint.com/software_architecture_design/component_based_architecture.htm)
 
-### Questions
-
 1. What is a “component”?
    * Component could be a few things. Software object that can interact with other components, functionality (which suggests logical operators?). Software component as unit of 'interface and explicit context dependencies'.
 2. What are the characteristics of a component?
