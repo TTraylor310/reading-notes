@@ -22,11 +22,12 @@
             console.log(false);
             } 
         ```
-    
-    ```
-        let result = (x===y) ? console.log(true) : console.log(false);
+
+        ```
+            let result = (x===y) ? console.log(true) : console.log(false);
+        ```
 
 ## Bookmark and Review
 
-* [React Bookstrap - Forms](https://react-bootstrap.github.io/forms/overview/)
-* [React Docs - conditional redering](https://reactjs.org/docs/conditional-rendering.html)
+* [React Bootstrap - Forms](https://react-bootstrap.github.io/forms/overview/)
+* [React Docs - conditional rendering](https://reactjs.org/docs/conditional-rendering.html)

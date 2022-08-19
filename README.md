@@ -25,8 +25,10 @@ Please, feel free to connect with me on [LinkedIn](www.linkedin.com/in/ttraylor3
 ## Class 301 - Intermediate Software Development
 
 * [Class 01 - Component-Based Architecture, React - Props basics](/C301/class-01.md)
-* [Class 02 -React Lifecycle and State vs Props](/C301/class-02.md)
+* [Class 02 - React - Lifecycle and State vs Props](/C301/class-02.md)
 * [Class 03 - React - Lists, Keys, Spread Operator, passing Functions](/C301/class-03.md)
+* [Class 04 - React - Forms, Conditional Operators (? x: y)](/C301/class-04.md)
+* [Class 05 - React - Thinking in... States/Props, Higher-Order Functions](/C301/class-05.md)
 * [PreWork - React](/C301/react.md)
 
 ## Class 201 - Foundations of Software Development
