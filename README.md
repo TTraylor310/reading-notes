@@ -30,6 +30,7 @@ Please, feel free to connect with me on [LinkedIn](www.linkedin.com/in/ttraylor3
 * [Class 04 - React - Forms, Conditional Operators (? x: y)](/C301/class-04.md)
 * [Class 05 - React - Thinking in... States/Props, Higher-Order Functions](/C301/class-05.md)
 * [Class 06 - Node.js - Intro to Node.js. 6 reasons for pair programming](/C301/class-06.md)
+* [Class 07 - REST explained](/C301/class-07.md)
 * [PreWork - React](/C301/react.md)
 
 ## Class 201 - Foundations of Software Development
