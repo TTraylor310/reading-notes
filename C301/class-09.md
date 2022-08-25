@@ -17,12 +17,12 @@
 ## [Node JS Tutorial for Beginners #6 - Modules and requrie](https://www.youtube.com/watch?v=xHLd36QoS4k)
 
 1. What is a module?
-    * 
+    * different section of code to be called upon later (another javascript file)
 2. What does the word ‘require’ do?
-    * 
+    * (on global object in Node js) goes to module, finds, and returns
 3. How do we bring another module into the file the we are working in?
-    * 
+    * use the require('./thing'); and set to a VARIABLE
 4. What do we have to do to make a module available?
-    * 
+    * set it to "module.exports = name;"
 
 ### Things I want to know more About
