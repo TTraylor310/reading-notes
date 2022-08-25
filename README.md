@@ -32,6 +32,8 @@ Please, feel free to connect with me on [LinkedIn](www.linkedin.com/in/ttraylor3
 * [Class 06 - Node.js - Intro to Node.js. 6 reasons for pair programming](/C301/class-06.md)
 * [Class 07 - REST explained](/C301/class-07.md)
 * [Class 08 - API Best Practices](/C301/class-08.md)
+* [Class 09 - Functional Programming Concepts and Node JS -modules and require](/C301/class-09.md)
+* [Class 10 - JavaScript: Call Stack, error messages](/C301/class-10.md)
 * [PreWork - React](/C301/react.md)
 
 ## Class 201 - Foundations of Software Development
