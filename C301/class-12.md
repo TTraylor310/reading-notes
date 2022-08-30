@@ -1,4 +1,4 @@
-# Notes for Class 10
+# Notes for Class 12
 
 ## [Status Codes Based on REST Methods](https://www.moesif.com/blog/technical/api-design/Which-HTTP-Status-Code-To-Use-For-Every-CRUD-App/)
 

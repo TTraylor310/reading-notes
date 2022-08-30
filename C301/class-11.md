@@ -1,4 +1,4 @@
-# Notes for Class 10
+# Notes for Class 11
 
 ## [SQL vs NoSQL](https://www.thegeekstuff.com/2014/01/sql-vs-nosql-db/?utm_source=tuicool)
 

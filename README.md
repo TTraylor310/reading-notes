@@ -36,6 +36,9 @@ Please, feel free to connect with me on [LinkedIn](www.linkedin.com/in/ttraylor3
 * [Class 10 - JavaScript: Call Stack, error messages](/C301/class-10.md)
 * [Class 11 - SQL vs NoSQL - Mongoose and Mongo](/C301/class-11.md)
 * [Class 12 - CRUD - Status Codes and REST API](/C301/class-12.md)
+* [Class 13 - more CRUD - Basics and Speed Coding](/C301/class-13.md)
+* [Class 14 - Diversity and Inclusion in Tech](/C301/class-14.md)
+* [Class 15 - Authentication](/C301/class-15.md)
 * [PreWork - React](/C301/react.md)
 
 ## Class 201 - Foundations of Software Development
