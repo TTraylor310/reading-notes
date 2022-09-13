@@ -22,6 +22,52 @@ Please, feel free to connect with me on [LinkedIn](www.linkedin.com/in/ttraylor3
 * Try to remember every one started at square one
 * Focus on small wins, win the war
 
+## Class 401 - Advanced Software Development in Full-Stack JavaScript
+
+* [Class 01 - Node Ecosystem](/C401/class-01.md)
+* [Class 02 - Express, NPM, TDD, CI/CD](/C401/class-02.md)
+* [Class 03 - Express REST API](/C401/class-03.md)
+* [Class 04 - Data Modeling](/C401/class-04.md)
+* [Class 05 - X](/C401/class-05.md)
+* [Class 06 - Authentication](/C401/class-06.md)
+* [Class 07 - Bearer Authorization](/C401/class-07.md)
+* [Class 08 - Access Control (ACL)](/C401/class-08.md)
+* [Class 09 - X](/C401/class-09.md)
+* [Class 10 - X](/C401/class-10.md)
+<!-- * [Class 11 - ]
+* [Class 12 - ]
+* [Class 13 - ]
+* [Class 14 - ]
+* [Class 15 - ]
+* [Class 16 - ]
+* [Class 17 - ]
+* [Class 18 - ]
+* [Class 19 - ]
+* [Class 20 - ]
+* [Class 21 - ]
+* [Class 22 - ]
+* [Class 23 - ]
+* [Class 24 - ]
+* [Class 25 - ]
+* [Class 26 - ]
+* [Class 27 - ]
+* [Class 28 - ]
+* [Class 29 - ]
+* [Class 30 - ]
+* [Class 31 - ]
+* [Class 32 - ]
+* [Class 33 - ]
+* [Class 34 - ]
+* [Class 35 - ]
+* [Class 36 - ]
+* [Class 37 - ]
+* [Class 38 - ]
+* [Class 39 - ]
+* [Class 40 - ]
+* [Class 41 - ]
+* [Class 42 - ]
+* [Class 43 - ] -->
+
 ## Class 301 - Intermediate Software Development
 
 * [Class 01 - Component-Based Architecture, React - Props basics](/C301/class-01.md)
