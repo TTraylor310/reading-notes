@@ -26,6 +26,7 @@ Please, feel free to connect with me on [LinkedIn](www.linkedin.com/in/ttraylor3
 
 * PreWork 01 - [Engineering Readings](/C401/preWork/engread.md)
 * PreWOrk 02 - [Data Structures & Algorithms](/C401/preWork/dsa.md)
+* PreWork 03 - [Growth Mindset](/C401/preWork/growth-mindset.md)
 * [Class 01 - Node Ecosystem](/C401/class-01.md)
 * [Class 02 - Express, NPM, TDD, CI/CD](/C401/class-02.md)
 * [Class 03 - Express REST API](/C401/class-03.md)
