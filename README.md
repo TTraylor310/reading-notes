@@ -9,12 +9,21 @@ Please, feel free to connect with me on [LinkedIn](www.linkedin.com/in/ttraylor3
 **Growth mindset** is the idea that I know that I am constantly growing and learning. *It is okay to fail*, but never okay to quit. Continue to improve daily and a month from now, you will be surprised.
 
 <!-- ### Various Notes for Markdown
-<!-- Good for commenting your Markdown AND blocking out Markdown that you don't want rendered. -->
-<!-- Markdown is useful for Styling Text:
 
-1. **Two asterisks make it Bold**  
-2. _One underscore is Italic_  
-3. **_Three asterisks are both Bold and Italic_** -->
+**Two asterisks make it Bold**  
+_One underscore is Italic_  
+**_Three asterisks are both Bold and Italic_** 
+> blockquote 
+'code'
+Horizontal rule: ---
+Link/Img: ![alt text](link)
+Fenced Code Block - ``` { blah blah } ```
+Strikethrough: ~~World is flat.~~
+Highlight: == important words ==
+Subscript: H~2~O
+Superscript: X^2^
+
+-->
 
 ## Reminders to stay in Growth Mindset
 
