@@ -4,6 +4,23 @@
 
   It continues to build on being more specific and general. Clicked when I figured it was just adding the refinement to the next level.
 
+## Images List
+
+I remembered to screenshot most of them, no way to see a master list or completed.
+
+* [Example 2](./introSQL/ex2.png)
+* [Example 3](./introSQL/ex3.png)
+* [Example 4](./introSQL/ex4.png)
+* [Example 5? Review1?](./introSQL/ex.rv1.png)
+* [Example 6](./introSQL/ex6.png)
+* [Example 13](./introSQL/ex13.png)
+* [Example 15](./introSQL/ex15.png)
+* [Example 16](./introSQL/ex16.png)
+* [Example 17](./introSQL/ex17.png)
+* [Example 18](./introSQL/ex18.png)
+
+### Notes
+
 ```
 {
 
@@ -47,16 +64,3 @@ ADD column DataType OptionalTableConstraint
 
 }
 ```
-
-## Images List - Remembered to screenshot most of them
-
-* ![Example 2](./introSQL/ex2.png)
-* ![Example 3](./introSQL/ex3.png)
-* ![Example 4](./introSQL/ex4.png)
-* ![Example 5? Review1?](./introSQL/ex.rv1.png)
-* ![Example 6](./introSQL/ex6.png)
-* ![Example 13](./introSQL/ex13.png)
-* ![Example 15](./introSQL/ex15.png)
-* ![Example 16](./introSQL/ex16.png)
-* ![Example 17](./introSQL/ex17.png)
-* ![Example 18](./introSQL/ex18.png)
