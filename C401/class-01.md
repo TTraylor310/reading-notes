@@ -10,6 +10,7 @@
     * Allows us to run JavaScript that can wait for user input and give a callback function. Attaches API library's and other components to maximize interface capabilities.
 
 * ![Node Event Loop](./img/node_event_loop.webp)
+  > "https://www.sitepoint.com/an-introduction-to-node-js/"
 
 ### Things I want to know more about
 
