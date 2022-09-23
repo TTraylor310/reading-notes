@@ -42,7 +42,7 @@ Superscript: X^2^
 * [Class 02 - Express, NPM, TDD, CI/CD](/C401/class-02.md)
 * [Class 03 - Express REST API](/C401/class-03.md)
 * [Class 04 - Data Modeling](/C401/class-04.md)
-* [Class 05 - X](/C401/class-05.md)
+* [Class 05 - Linked Lists](/C401/class-05.md)
 * [Class 06 - Authentication](/C401/class-06.md)
 * [Class 07 - Bearer Authorization](/C401/class-07.md)
 * [Class 08 - Access Control (ACL)](/C401/class-08.md)
