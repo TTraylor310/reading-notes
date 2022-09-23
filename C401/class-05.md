@@ -9,7 +9,7 @@
 
 * [What's a Linked List, Anyway pt1](https://medium.com/basecs/whats-a-linked-list-anyway-part-1-d8b7e6508b9d)
 * [What's a Linked List, Anyway pt2](https://medium.com/basecs/whats-a-linked-list-anyway-part-2-131d96f71996)
-  > "_citied reference_"
+  > '_citied references_'
 
 #### Notes
 
@@ -28,10 +28,10 @@
   * _A single node is also pretty simple. It has just two parts: data, or the information that the node contains, and a reference to the next node._
   * **doubly** _linked list, because there are two references contained within each node: a reference to the next node, as well as the previous node_
 
-[infos](./img/infos.jpeg)
-[ll insertions](./img/ll%20insertions.jpeg)
-[big O time](./img/big%20O%20time.jpeg)
-[ll types](./img/ll%20types.jpeg)
-[ll node](./img/ll%20node.jpeg)
-[linear and non memory](./img/linear%20and%20non%20memory.jpeg)
-[linear and non lists](./img/linear%20and%20non%20lists.jpeg)
+![infos](./img/infos.jpeg)
+![linear and non lists](./img/linear%20and%20non%20lists.jpeg)
+![ll node](./img/ll%20node.jpeg)
+![ll insertions](./img/ll%20insertions.jpeg)
+![ll types](./img/ll%20types.jpeg)
+![linear and non memory](./img/linear%20and%20non%20memory.jpeg)
+![big O time](./img/big%20O%20time.jpeg)
