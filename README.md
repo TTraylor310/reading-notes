@@ -46,8 +46,8 @@ Superscript: X^2^
 * [Class 06 - Authentication](/C401/class-06.md)
 * [Class 07 - Bearer Authorization](/C401/class-07.md)
 * [Class 08 - Access Control (ACL)](/C401/class-08.md)
-* [Class 09 - X](/C401/class-09.md)
-* [Class 10 - X](/C401/class-10.md)
+* [Class 09 - Authorization/Authentication Ideas for Projects](/C401/class-09.md)
+* [Class 10 - Stacks and Queues](/C401/class-10.md)
 <!-- * [Class 11 - ]
 * [Class 12 - ]
 * [Class 13 - ]
