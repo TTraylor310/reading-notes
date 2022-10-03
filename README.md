@@ -33,11 +33,6 @@ Superscript: X^2^
 
 ## Class 401 - Advanced Software Development in Full-Stack JavaScript
 
-* PreWork 01 - [Engineering Readings](/C401/preWork/engread.md)
-* PreWOrk 02 - [Data Structures & Algorithms](/C401/preWork/dsa.md)
-* PreWork 03 - [Growth Mindset](/C401/preWork/growth-mindset.md)
-* PreWork 04 - [Intro to SQL](/C401/preWork/introductionSQL.md)
-* PreWork 05 - [Practice in the Terminal](/C401/preWork/terminal-practice.md)
 * [Class 01 - Node Ecosystem](/C401/class-01.md)
 * [Class 02 - Express, NPM, TDD, CI/CD](/C401/class-02.md)
 * [Class 03 - Express REST API](/C401/class-03.md)
@@ -48,16 +43,16 @@ Superscript: X^2^
 * [Class 08 - Access Control (ACL)](/C401/class-08.md)
 * [Class 09 - Authorization/Authentication Ideas for Projects](/C401/class-09.md)
 * [Class 10 - Stacks and Queues](/C401/class-10.md)
-<!-- * [Class 11 - ]
-* [Class 12 - ]
-* [Class 13 - ]
-* [Class 14 - ]
-* [Class 15 - ]
-* [Class 16 - ]
-* [Class 17 - ]
-* [Class 18 - ]
-* [Class 19 - ]
-* [Class 20 - ]
+* [Class 11 - Event Driven Application](/C401/class-11.md)
+* [Class 12 - Socket.io, Web](/C401/class-12.md)
+* [Class 13 - Socket.io Chat/ Rooms/ Namespaces](/C401/class-13.md)
+* [Class 14 - Event Driven Architecture](/C401/class-14.md)
+* [Class 15 - TEMP](/C401/class-15.md)
+* [Class 16 - AWS: Cloud Servers](/C401/class-16.md)
+* [Class 17 - AWS: S3 and Lambda](/C401/class-17.md)
+* [Class 18 - AWS: API, Dynamo and Lambda>](/C401/class-18.md)
+* [Class 19 - AWS: Events](/C401/class-19.md)
+<!-- * [Class 20 - ]
 * [Class 21 - ]
 * [Class 22 - ]
 * [Class 23 - ]
@@ -81,6 +76,11 @@ Superscript: X^2^
 * [Class 41 - ]
 * [Class 42 - ]
 * [Class 43 - ] -->
+* PreWork 01 - [Engineering Readings](/C401/preWork/engread.md)
+* PreWOrk 02 - [Data Structures & Algorithms](/C401/preWork/dsa.md)
+* PreWork 03 - [Growth Mindset](/C401/preWork/growth-mindset.md)
+* PreWork 04 - [Intro to SQL](/C401/preWork/introductionSQL.md)
+* PreWork 05 - [Practice in the Terminal](/C401/preWork/terminal-practice.md)
 
 ## Class 301 - Intermediate Software Development
 
