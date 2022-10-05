@@ -2,7 +2,7 @@
 
 *This is where I will put all my notes I guess...*
 
-Hello, My name is Tim Traylor (he/him). Currently living in Edmonds, Washington. I am a 12 year Navy veteran, submarine nuclear electrician. Currently running Windows 10. Excited to see what area of coding and software development speaks to me next. I have enjoyed learning JavaScript and look forward to more complexity in code and projects. Starting from a near zero background in coding, but have always been able to build computers and fix small issues. Excited to continue learning with Code Fellows!
+Hello, My name is Tim Traylor (he/him). Currently living in Edmonds, Washington. I am a 12 year Navy veteran, submarine nuclear electrician. Currently running Windows 10. Excited to see what area of coding and software development speaks to me next. I have enjoyed learning full stack JavaScript and look forward to the next level of complexity in code and projects. Starting from a near zero background in coding, but have always been able to build computers and fix small issues. Excited to continue learning with Code Fellows!
 
 Please, feel free to connect with me on [LinkedIn](www.linkedin.com/in/ttraylor310) and/or [GitHub](https://github.com/ttraylor310).
 
