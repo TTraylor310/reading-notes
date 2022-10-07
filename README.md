@@ -47,7 +47,7 @@ Superscript: X^2^
 * [Class 12 - Socket.io, Web](/C401/class-12.md)
 * [Class 13 - Socket.io Chat/ Rooms/ Namespaces](/C401/class-13.md)
 * [Class 14 - Event Driven Architecture](/C401/class-14.md)
-* [Class 15 - TEMP](/C401/class-15.md)
+* [Class 15 - Trees](/C401/class-15.md)
 * [Class 16 - AWS: Cloud Servers](/C401/class-16.md)
 * [Class 17 - AWS: S3 and Lambda](/C401/class-17.md)
 * [Class 18 - AWS: API, Dynamo and Lambda>](/C401/class-18.md)
