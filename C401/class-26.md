@@ -1,4 +1,4 @@
-# Class 26 - Component Based UI
+# [Class 26 - Component Based UI](https://codefellows.github.io/code-401-javascript-guide/curriculum/class-26/)
 
 ## [React - Hello World](https://facebook.github.io/react/docs/hello-world.html)
 
@@ -26,5 +26,5 @@
 
 ## Additional Questions
 
-1. Looking ahead at this module’s [course schedule](https://codefellows.github.io/code-401-javascript-guide/curriculum/README#module-6), What do you look forward to learning?
+1. Looking ahead at this module’s course schedule, What do you look forward to learning?
 2. What are your learning goals after reading and reviewing the class README

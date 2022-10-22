@@ -1,4 +1,4 @@
-# Class 27 - `use state` Hook
+# [Class 27 - `use state` Hook](https://codefellows.github.io/code-401-javascript-guide/curriculum/class-27)
 
 ## [Introducing Hooks](https://reactjs.org/docs/hooks-intro.html#motivation)
 

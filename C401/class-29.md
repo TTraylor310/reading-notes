@@ -1,4 +1,4 @@
-# Class 29 - Advanced State with Reducers
+# [Class 29 - Advanced State with Reducers](https://codefellows.github.io/code-401-javascript-guide/curriculum/class-29)
 
 ## [`useReducer` Hook](https://reactjs.org/docs/hooks-reference.html#usereducer)
 

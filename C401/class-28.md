@@ -1,4 +1,4 @@
-# Class 28 - Component Lifecycle / `useEffect` Hook
+# [Class 28 - Component Lifecycle / `useEffect` Hook](https://codefellows.github.io/code-401-javascript-guide/curriculum/class-28)
 
 ## [Effects Hook](https://reactjs.org/docs/hooks-effect.html)
 
