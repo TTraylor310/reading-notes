@@ -2,7 +2,7 @@
 
 *This is where I will put all my notes I guess...*
 
-Hello, My name is Tim Traylor (he/him). Currently living in Edmonds, Washington. I am a 12 year Navy veteran, submarine nuclear electrician. Currently running Windows 10. Excited to see what area of coding and software development speaks to me next. I have enjoyed learning full stack JavaScript and look forward to the next level of complexity in code and projects. Starting from a near zero background in coding, but have always been able to build computers and fix small issues. Excited to continue learning with Code Fellows!
+Hello, My name is Tim Traylor (he/him). Currently living in Edmonds, Washington. I am a 12 year Navy veteran, submarine nuclear electrician. Currently running Windows 11. Excited to see what area of coding and software development speaks to me next. I have enjoyed learning full stack JavaScript and look forward to the next level of complexity in code and projects. Starting from a near zero background in coding, but have always been able to build computers and fix small issues. Excited to continue learning with Code Fellows!
 
 Please, feel free to connect with me on [LinkedIn](www.linkedin.com/in/ttraylor310) and/or [GitHub](https://github.com/ttraylor310).
 
@@ -52,18 +52,12 @@ Superscript: X^2^
 * [Class 17 - AWS: S3 and Lambda](/C401/class-17.md)
 * [Class 18 - AWS: API, Dynamo and Lambda>](/C401/class-18.md)
 * [Class 19 - AWS: Events](/C401/class-19.md)
-<!-- * [Class 20 - ]
-* [Class 21 - ]
-* [Class 22 - ]
-* [Class 23 - ]
-* [Class 24 - ]
-* [Class 25 - ]
-* [Class 26 - ]
-* [Class 27 - ]
-* [Class 28 - ]
-* [Class 29 - ]
-* [Class 30 - ]
-* [Class 31 - ]
+* [Class 26 - Component Based UI](/C401/class-26.md)
+* [Class 27 - `use state` Hook](/C401/class-27.md)
+* [Class 28 - Component Lifecycle / `useEffect` Hook](/C401/class-28.md)
+* [Class 29 - Advanced State with Reducers](/C401/class-29.md)
+* [Class 30 - Hash Tables](/C401/class-30.md)
+<!-- * [Class 31 - ]
 * [Class 32 - ]
 * [Class 33 - ]
 * [Class 34 - ]
@@ -77,7 +71,7 @@ Superscript: X^2^
 * [Class 42 - ]
 * [Class 43 - ] -->
 * PreWork 01 - [Engineering Readings](/C401/preWork/engread.md)
-* PreWOrk 02 - [Data Structures & Algorithms](/C401/preWork/dsa.md)
+* PreWork 02 - [Data Structures & Algorithms](/C401/preWork/dsa.md)
 * PreWork 03 - [Growth Mindset](/C401/preWork/growth-mindset.md)
 * PreWork 04 - [Intro to SQL](/C401/preWork/introductionSQL.md)
 * PreWork 05 - [Practice in the Terminal](/C401/preWork/terminal-practice.md)
