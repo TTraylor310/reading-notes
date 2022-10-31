@@ -73,14 +73,14 @@ Superscript: X^2^
 * [Class 32 - Context Behaviors](/C401/class-32.md)
 * [Class 33 - `<Login />` and `<Auth />`](/C401/class-33.md)
 * [Class 34 - API Integration](/C401/class-34.md)
-<!-- * [Class 36 - ]
+* [Class 36 - Application State with Redux]
 * [Class 37 - ]
 * [Class 38 - ]
 * [Class 39 - ]
-* [Class 40 - ]
+<!-- * [Class 40 - ] -->
 * [Class 41 - ]
 * [Class 42 - ]
-* [Class 43 - ] -->
+* [Class 43 - ]
 
 ### Prework
 
