@@ -1,4 +1,4 @@
-# Notes for Class 10
+# Notes for Class 10 - DSA: Stacks & Queues
 
 ## Discuss
 

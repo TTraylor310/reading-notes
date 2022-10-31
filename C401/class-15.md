@@ -1,4 +1,4 @@
-# Notes for Class 15
+# Notes for Class 15 - DSA: Trees
 
 ## [TREES - Reading](https://codefellows.github.io/common_curriculum/data_structures_and_algorithms/Code_401/class-15/resources/Trees.html)
 

@@ -33,41 +33,47 @@ Superscript: X^2^
 
 ## Class 401 - Advanced Software Development in Full-Stack JavaScript
 
-### 1st Half - Node.js - Backend
+#### Data Structures and Algorithms
+
+* [Class 05 - DSA: Linked Lists](/C401/class-05.md)
+* [Class 10 - DSA: Stacks and Queues](/C401/class-10.md)
+* [Class 15 - DSA: Trees](/C401/class-15.md)
+* [Class 30 - DSA: Hash Tables](/C401/class-30.md)
+* [Class 35 - DSA: Graphs](/C401/class-35.md)
+
+#### 1st Half - Node.js - Backend
 
 * [Class 01 - Node Ecosystem](/C401/class-01.md)
 * [Class 02 - Express, NPM, TDD, CI/CD](/C401/class-02.md)
 * [Class 03 - Express REST API](/C401/class-03.md)
 * [Class 04 - Data Modeling](/C401/class-04.md)
-* [Class 05 - Linked Lists](/C401/class-05.md)
 * [Class 06 - Authentication](/C401/class-06.md)
 * [Class 07 - Bearer Authorization](/C401/class-07.md)
 * [Class 08 - Access Control (ACL)](/C401/class-08.md)
 * [Class 09 - Authorization/Authentication Ideas for Projects](/C401/class-09.md)
-* [Class 10 - Stacks and Queues](/C401/class-10.md)
 * [Class 11 - Event Driven Application](/C401/class-11.md)
 * [Class 12 - Socket.io, Web](/C401/class-12.md)
 * [Class 13 - Socket.io Chat/ Rooms/ Namespaces](/C401/class-13.md)
 * [Class 14 - Event Driven Architecture](/C401/class-14.md)
-* [Class 15 - Trees](/C401/class-15.md)
+
+#### AWS Integration
+
 * [Class 16 - AWS: Cloud Servers](/C401/class-16.md)
 * [Class 17 - AWS: S3 and Lambda](/C401/class-17.md)
 * [Class 18 - AWS: API, Dynamo and Lambda>](/C401/class-18.md)
 * [Class 19 - AWS: Events](/C401/class-19.md)
 
-### 2nd Half - REACT - Frontend
+#### 2nd Half - REACT - Frontend
 
 * [Class 26 - Component Based UI](/C401/class-26.md)
 * [Class 27 - `use state` Hook](/C401/class-27.md)
 * [Class 28 - Component Lifecycle / `useEffect` Hook](/C401/class-28.md)
 * [Class 29 - Advanced State with Reducers](/C401/class-29.md)
-* [Class 30 - Hash Tables](/C401/class-30.md)
-<!-- * [Class 31 - ]
-* [Class 32 - ]
-* [Class 33 - ]
-* [Class 34 - ]
-* [Class 35 - ]
-* [Class 36 - ]
+* [Class 31 - Context API](/C401/class-31.md)
+* [Class 32 - Context Behaviors](/C401/class-32.md)
+* [Class 33 - `<Login />` and `<Auth />`](/C401/class-33.md)
+* [Class 34 - API Integration](/C401/class-34.md)
+<!-- * [Class 36 - ]
 * [Class 37 - ]
 * [Class 38 - ]
 * [Class 39 - ]
