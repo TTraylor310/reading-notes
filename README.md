@@ -73,14 +73,13 @@ Superscript: X^2^
 * [Class 32 - Context Behaviors](/C401/class-32.md)
 * [Class 33 - `<Login />` and `<Auth />`](/C401/class-33.md)
 * [Class 34 - API Integration](/C401/class-34.md)
-* [Class 36 - Application State with Redux]
-* [Class 37 - ]
-* [Class 38 - ]
-* [Class 39 - ]
-<!-- * [Class 40 - ] -->
-* [Class 41 - ]
-* [Class 42 - ]
-* [Class 43 - ]
+* [Class 36 - Application State with Redux](/C401/class-36.md)
+* [Class 37 - Redux, combined Reducers](/C401/class-37.md)
+* [Class 38 - Redux, Asynchronous Actions](/C401/class-38.md)
+* [Class 39 - Redux, Additional Topics](/C401/class-39.md)
+* [Class 41 - React Native](/C401/class-41.md)
+* [Class 42 - Ethics in Tech](/C401/class-42.md)
+* [Class 43 - OSS Contributions](/C401/class-43.md)
 
 ### Prework
 
